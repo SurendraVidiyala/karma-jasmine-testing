@@ -1,3 +1,4 @@
+
 # karma-jasmine-testing
 - unit testing in your Angular applications. You will learn about Angular mocks, Karma, and      Jasmine and learn how to use them to carry out unit testing and e2e testing.
   - Configure a Karma configuration file and Set up unit tests using Jasmine and carry out the   unit test automatically
@@ -34,4 +35,6 @@ You should also install the ngMock module as follows:
 ``````````
      bower install angular-mocks -S
 ``````````````
-
+Unit Testing of MenuController
+Next, we will configure Karma to conduct the unit test. First, create a folder in conFusion folder, named test.
+Move to the test folder, and create a file named karma.conf.js there. This file will contain the configuration information for the Karma tests. 
