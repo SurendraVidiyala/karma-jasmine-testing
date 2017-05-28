@@ -1,0 +1,30 @@
+{
+    "name": "angular-resource-handling-errors",
+    "homepage": "https://github.com/SurendraVidiyala/angular-client-server",
+    "authors": [
+        "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
+    ],
+    "description": "example on client server communiication in angularjs",
+    "main": "app/index.html",
+    "keywords": [
+        "angular",
+        "fornt-awesome",
+        "bootstrap"
+    ],
+    "license": "MIT",
+    "private": true,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "^1.6.4",
+        "angular-ui-router": "^1.0.3",
+        "bootstrap": "^3.3.7",
+        "font-awesome": "^4.7.0",
+        "angular-resource": "^1.6.4"
+    }
+}
