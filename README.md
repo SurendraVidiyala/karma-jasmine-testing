@@ -24,7 +24,7 @@ Then set up karma-jasmine plugin to make use of Jasmine with Karma:
 - In order to set up browser environments to carry out the tests, set up PhantomJS, and Karma launchers for PhantomJS and Chrome as follows:
 
 ````````
-     npm install phantomjs karma-phantomjs-launcher karma-chrome-launcher`karma-edge-launcher  --save-dev
+     npm install phantomjs karma-phantomjs-launcher karma-chrome-launcher karma-edge-launcher  --save-dev
 `````````` 
 
 - You can also set up for Firefox, IE and Safari if you use these browsers.
