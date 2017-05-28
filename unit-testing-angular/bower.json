@@ -1,10 +1,10 @@
 {
-    "name": "angular-resource-handling-errors",
+    "name": "unit-testing-angular",
     "homepage": "https://github.com/SurendraVidiyala/angular-client-server",
     "authors": [
         "<surendra_vidiyala> <<vidiyala.surendra@gmail.com>>"
     ],
-    "description": "example on client server communiication in angularjs",
+    "description": "unit testing with karma and jasmine for angular",
     "main": "app/index.html",
     "keywords": [
         "angular",

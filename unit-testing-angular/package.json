@@ -1,5 +1,5 @@
 {
-    "name": "angular-resource-handling-errors",
+    "name": "unit-testing-angular",
     "private": true,
     "devDependencies": {
         "browser-sync": "^2.18.12",
