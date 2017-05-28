@@ -19,6 +19,7 @@
     "jasmine-core": "^2.6.2",
     "jshint": "^2.9.4",
     "jshint-stylish": "^2.2.1",
+    "karma": "^1.7.0",
     "karma-chrome-launcher": "^2.1.1",
     "karma-edge-launcher": "^0.4.1",
     "karma-jasmine": "^1.1.0",
